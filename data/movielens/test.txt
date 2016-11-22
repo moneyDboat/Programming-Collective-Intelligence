@@ -1,0 +1,4 @@
+520|Great Escape, The (1963)|01-Jan-1963||http://us.imdb.com/M/title-exact?Great%20Escape,%20The%20(1963)|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0
+521|Deer Hunter, The (1978)|01-Jan-1978||http://us.imdb.com/M/title-exact?Deer%20Hunter,%20The%20(1978)|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|1|0
+522|Down by Law (1986)|01-Jan-1986||http://us.imdb.com/M/title-exact?Down%20by%20Law%20(1986)|0|0|0|0|0|1|0|0|1|0|0|0|0|0|0|0|0|0|0
+523|Cool Hand Luke (1967)|01-Jan-1967||http://us.imdb.com/M/title-exact?Cool%20Hand%20Luke%20(1967)|0|0|0|0|0|1|0|0|1|0|0|0|0|0|0|0|0|0|0
