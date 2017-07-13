@@ -54,7 +54,7 @@ class crawler:
     # Extract the text from an HTML page (no tags)
     def gettextonly(self, soup):
         v = soup.string
-        if v == Null:
+        if len(v) == 0:
             c = soup.contents
             resulttext = ''
             for t in c:
@@ -65,11 +65,13 @@ class crawler:
             return v.strip()
 
     # Seperate the words by any non-whitespace character
+    @staticmethod
     def separatewords(self, text):
         splitter = re.compile('\\W*')
         return [s.lower() for s in splitter.split(text) if s != '']
 
     # Return true if this url is already indexed
+    @staticmethod
     def isindexed(self, url):
         return False
 
@@ -94,7 +96,7 @@ class crawler:
             newpages = {}
             for page in pages:
                 try:
-                    c = urlopen(page)
+                    c = urllib.request.urlopen(page)
                 except:
                     print("Could not open %s" % page)
                     continue
@@ -104,9 +106,10 @@ class crawler:
 
                     links = soup('a')
                     for link in links:
-                        if ('href' in dict(link.attrs)):
-                            url = urljoin(page, link['href'])
-                            if url.find("'") != -1: continue
+                        if 'href' in dict(link.attrs):
+                            url = urllib.request.urljoin(page, link['href'])
+                            if url.find("'") != -1:
+                                continue
                             url = url.split('#')[0]  # remove location portion
                             if url[0:4] == 'http' and not self.isindexed(url):
                                 newpages[url] = 1
@@ -120,6 +123,7 @@ class crawler:
             pages = newpages
 
     # Create the database tables
+    # no use
     def createindextables(self):
         self.con.execute('create table urllist(url)')
         self.con.execute('create table wordlist(word)')
@@ -211,11 +215,15 @@ class searcher:
         totalscores = dict([(row[0], 0) for row in rows])
 
         # This is where we'll put our scoring functions
-        weights = [(1.0, self.locationscore(rows)),
-                   (1.0, self.frequencyscore(rows)),
-                   (1.0, self.pagerankscore(rows)),
-                   (1.0, self.linktextscore(rows, wordids)),
-                   (5.0, self.nnscore(rows, wordids))]
+        # weights = [(1.0, self.locationscore(rows)),
+        #            (1.0, self.frequencyscore(rows)),
+        #            (1.0, self.pagerankscore(rows)),
+        #            (1.0, self.linktextscore(rows, wordids)),
+        #            (5.0, self.nnscore(rows, wordids))]
+
+        # test code
+        weights = [(1.0, self.frequencyscore(rows))]
+
         for (weight, scores) in weights:
             for url in totalscores:
                 totalscores[url] += weight * scores[url]
@@ -298,9 +306,31 @@ class searcher:
         normalizedscores = dict([(u, float(l) / maxrank) for (u, l) in pageranks.items()])
         return normalizedscores
 
-    def nnscore(self, rows, wordids):
-        # Get unique URL IDs as an ordered list
-        urlids = [urlid for urlid in dict([(row[0], 1) for row in rows])]
-        nnres = mynet.getresult(wordids, urlids)
-        scores = dict([(urlids[i], nnres[i]) for i in range(len(urlids))])
-        return self.normalizescores(scores)
+        # def nnscore(self, rows, wordids):
+        #     # Get unique URL IDs as an ordered list
+        #     urlids = [urlid for urlid in dict([(row[0], 1) for row in rows])]
+        #     nnres = mynet.getresult(wordids, urlids)
+        #     scores = dict([(urlids[i], nnres[i]) for i in range(len(urlids))])
+        #     return self.normalizescores(scores)
+
+
+# main()
+# 因为网址无法访问，所以跳过爬虫和数据库建立部分，使用现成的数据库
+crawler = crawler('searchindex.db')
+# crawler.createindextables()
+# pages = [...]
+# crawler.crawl(pages)
+
+print('<----Database is prepared!---->')
+print([row for row in crawler.con.execute( \
+    'select rowid from wordlocation where wordid = 1')])
+
+# Querying
+print('<----Querying---->')
+e = searcher('searchindex.db')
+result = e.getmatchrows('functional programming')
+print(result)
+
+# Content-Based Ranking
+print('<----Content-Based Ranking---->')
+e.query('functional programming')
