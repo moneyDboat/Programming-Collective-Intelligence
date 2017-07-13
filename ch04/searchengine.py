@@ -7,6 +7,9 @@ import re
 # Create a list of words to ignore
 ignorewords = {'the': 1, 'of': 1, 'to': 1, 'and': 1, 'a': 1, 'in': 1, 'is': 1, 'it': 1}
 
+# import Click-Tracking Model
+from ch04 import nn
+mynet = nn.searchnet('nn.db')
 
 class crawler:
     # Initialize the crawler with the name of database
@@ -148,8 +151,7 @@ class crawler:
         self.dbcommit()
 
         for i in range(iterations):
-            print
-            "Iteration %d" % (i)
+            print("Iteration %d" % (i))
             for (urlid,) in self.con.execute('select rowid from urllist'):
                 pr = 0.15
 
@@ -222,7 +224,9 @@ class searcher:
         #            (5.0, self.nnscore(rows, wordids))]
 
         # test code
-        weights = [(1.0, self.frequencyscore(rows))]
+        weights = [(1.0, self.frequencyscore(rows)),
+                   (1.0, self.locationscore(rows)),
+                   (1.0)]
 
         for (weight, scores) in weights:
             for url in totalscores:
@@ -306,31 +310,9 @@ class searcher:
         normalizedscores = dict([(u, float(l) / maxrank) for (u, l) in pageranks.items()])
         return normalizedscores
 
-        # def nnscore(self, rows, wordids):
-        #     # Get unique URL IDs as an ordered list
-        #     urlids = [urlid for urlid in dict([(row[0], 1) for row in rows])]
-        #     nnres = mynet.getresult(wordids, urlids)
-        #     scores = dict([(urlids[i], nnres[i]) for i in range(len(urlids))])
-        #     return self.normalizescores(scores)
-
-
-# main()
-# 因为网址无法访问，所以跳过爬虫和数据库建立部分，使用现成的数据库
-crawler = crawler('searchindex.db')
-# crawler.createindextables()
-# pages = [...]
-# crawler.crawl(pages)
-
-print('<----Database is prepared!---->')
-print([row for row in crawler.con.execute( \
-    'select rowid from wordlocation where wordid = 1')])
-
-# Querying
-print('<----Querying---->')
-e = searcher('searchindex.db')
-result = e.getmatchrows('functional programming')
-print(result)
-
-# Content-Based Ranking
-print('<----Content-Based Ranking---->')
-e.query('functional programming')
+    def nnscore(self, rows, wordids):
+        # Get unique URL IDs as an ordered list
+        urlids = [urlid for urlid in dict([(row[0], 1) for row in rows])]
+        nnres = mynet.getresult(wordids, urlids)
+        scores = dict([(urlids[i], nnres[i]) for i in range(len(urlids))])
+        return self.normalizescores(scores)
