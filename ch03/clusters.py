@@ -318,36 +318,3 @@ def draw2d(data, labels, jpeg='mds2d.jpg'):
         y = (data[i][1] + 0.5) * 1000
         draw.text((x, y), labels[i], (0, 0, 0))
     img.save(jpeg, 'JPEG')
-
-
-# main code
-print('<----Hierarchical Clustering---->')
-blognames, words, data = readfile('data/blogdata.txt')
-clust = hcluster(data)
-printclust(clust, labels=blognames)
-
-print('<----Drawing the Dendrogram---->')
-drawdendrogram(clust, blognames, jpeg='output/blogclust.jpg')
-
-print('<----Column Clustering---->')
-rdata = rotatematrix(data)
-wordclust = hcluster(rdata)
-drawdendrogram(wordclust, labels=words, jpeg='output/wordclust.jpg')
-
-print('<----K-Means Clustering---->')
-kclust, dis_sum = kcluster(data, k=10)
-print([blognames[r] for r in kclust[0]])
-
-print('<----Clusters of Preferences---->')
-wants, people, data = readfile('data/zebo.txt')
-clust = hcluster(data, distance=tanamoto)
-drawdendrogram(clust, wants, jpeg='output/wants.jpg')
-
-# ex04
-clust_manhattan = hcluster(data, distance=manhattan)
-drawdendrogram(clust, wants, jpeg='output/wants_manhattan.jpg')
-
-print('<----Viewing Data in Two Dimensions---->')
-blognames, words, data = readfile('data/blogdata.txt')
-coords = scaledown(data)
-draw2d(coords, blognames, jpeg='output/blogs2d.jpg')
