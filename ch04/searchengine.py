@@ -8,7 +8,7 @@ import re
 ignorewords = {'the': 1, 'of': 1, 'to': 1, 'and': 1, 'a': 1, 'in': 1, 'is': 1, 'it': 1}
 
 # import Click-Tracking Model
-from ch04 import nn
+import nn
 mynet = nn.searchnet('nn.db')
 
 class crawler:
