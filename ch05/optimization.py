@@ -184,7 +184,9 @@ def geneticoptimize(domain, costf, popsize=50, step=1,
     topelite = int(elite * popsize)
 
     # Main loop
-    for i in range(maxiter):
+    i = 0
+    while True:
+        i += 0;
         try:
             scores = [(costf(v), v) for v in pop]
         except:
@@ -194,6 +196,10 @@ def geneticoptimize(domain, costf, popsize=50, step=1,
 
         # Start with the pure winners
         pop = ranked[0:topelite]
+
+        # exercise 3 : 遗传优化算法的结束条件
+        if costf(sum(pop) == sum(scores[0:topelite])):
+            break
 
         # Add mutated and bred forms of the winners
         while len(pop) < popsize:
@@ -210,7 +216,7 @@ def geneticoptimize(domain, costf, popsize=50, step=1,
                 pop.append(crossover(ranked[c1], ranked[c2]))
 
         # Print current best score
-        if i%5 == 0:
+        if i % 5 == 0:
             print(scores[0][0])
 
     return scores[0][1]
