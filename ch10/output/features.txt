@@ -1,0 +1,100 @@
+['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+(31.595352707003698, 'Questions remain surrounding fatal Minnesota police shooting')
+(13.455016947035157, "'Our hearts are broken' - Don Damond")
+(12.787101907407013, 'Minneapolis police shooting of Australian woman sparks questions about body cameras')
+
+['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+(45.077334903336713, 'Woman Who Claimed She Lost Baby During Gender-Reveal Party Mass Shooting Was Not Pregnant: Police')
+(4.4552310186110979, "Maryam Mirzakhani's Pioneering Mathematical Legacy")
+(2.641240387315885, 'Trump meets with Republican leadership; party unity discussed')
+
+['from', 'space', 'coverage', 'full', 'what', 'star']
+(15.245019099218407, "Astronomers don't know what's causing these weird radio waves from a nearby star")
+(14.599831451614946, "Japan's zero-gravity space drone sends first pictures from ISS")
+(11.31602664620787, "What To Expect From AMD's Threadripper And EPYC Processors.")
+
+['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+(39.826891889530103, "Saudi girl's online post in miniskirt sparks backlash, calls for her arrest")
+(19.452303272227358, 'Saudi Arabia investigates woman who wore miniskirt in public')
+(12.528252607845623, 'Saudi Arabia investigates video of young woman walking in miniskirt')
+
+['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+(28.733115793997772, 'Trump Recertifies Iran Nuclear Deal, but Only Reluctantly')
+(24.71159656179978, 'Iran Sentences US Graduate Student to 10 Years on Spying Charges')
+(16.43593462740867, 'Iran complying with nuclear deal, US says')
+
+['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+(16.683826159668453, "'Modern Day Presidential' really isn't working for Trump")
+(14.869337501686811, 'Spicer contradicts Trump on Trump Jr. meeting')
+(13.226223757314903, 'The Breakdown: State Party Takes Aim at Hijabs for Children. Also: Australian Is Shot in U.S., and Julie Bishop on Trump.')
+
+['atari', 'console', 'ataribox', 'more', 'will', 'than']
+(40.033893223559012, "We've Seen Atari's New 'Ataribox' Console, And It's More Confusing Than Ever")
+(3.9941188401918626, 'Justice Dept. signals more police property seizures coming')
+(3.62367409672509, "Maryam Mirzakhani's Pioneering Mathematical Legacy")
+
+['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+(34.063184728596767, 'US makes lower trade deficit top priority in NAFTA talks')
+(26.033546865595984, 'Trump administration unveils goals in renegotiating NAFTA')
+(11.877908599848054, 'U.S. makes lower trade deficit top priority in NAFTA talks')
+
+['health', 'care', 'bill', 'senate', 'republicans', 'more']
+(28.15781872509864, 'Two more Senate Republicans oppose health-care bill, leaving it without enough votes to pass')
+(15.624330893169843, 'GOP health care bill lacks support to proceed')
+(14.628622789771905, 'Latest GOP health care bill collapses after two senators defect')
+
+['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+(35.194981018645336, 'The Latest: California Legislature passes cap-and-trade deal')
+(32.326031056125927, 'California lawmakers extend landmark climate change law')
+(9.1147925840358166, 'California Extends Climate Bill, Handing Gov. Jerry Brown a Victory')
+
+['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+(46.122075800979594, "Amazon's Meal Kit Move Will Be More Than a Blue Apron Competitor")
+(4.2219496729455859, 'Did an Echo Call 911 During a Domestic Assault? Amazon Says No.')
+(3.7587912783133572, 'Wells Fargo poised to sell more businesses as it streamlines following accounts scandal')
+
+['talks', 'brexit', 'full', 'with', 'york', 'news']
+(38.567517355829395, "Britain and the EU Have Started Brexit Talks With Citizens' Rights Proving Divisive")
+(6.6468371779135884, 'South Korea Proposes Military Talks With North at Their Border')
+(6.5436086127576019, 'The ‘Brexit’ Talks, in 200 Words')
+
+['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+(20.945501283140764, 'Essential phone UK launch revealed, still MIA in US')
+(19.307433598135042, 'Watch the Final Fight giant Abigail get warmed up for his Street Fighter 5 debut')
+(14.622090356584128, "Philippines' Duterte asks Congress to extend martial law")
+
+['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+(18.000473997942478, 'Qatar says media report reveals UAE role in hack that sparked crisis')
+(10.515040435606707, 'UAE says report that it was behind Qatari cyber hack is "false"')
+(9.9577905181107944, 'Trump says Iran complying with nuclear deal but remains dangerous threat')
+
+['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+(38.267985635715057, "Tesla Model 3: Should you buy Elon Musk's first mass-market electric car?")
+(17.836586462949008, "Tesla Says Driver Clarifies Autopilot Wasn't on During Crash")
+(11.665477100328223, 'When Will Tesla Join The S&P 500?')
+
+['game', 'thrones', 'season', 'super', 'smash', 'bros']
+(30.949690450423862, 'Game Of Thrones season 7 Episode 1 Questions Answered')
+(21.640580538045938, 'Super Smash Bros. Modders Are Making A Free-To-Play PC Fighting Game')
+(15.133940281588689, 'Game of Thrones: ‘Game of Thrones’ Season 7 Premiere: Welcome to Dragonstone')
+
+['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+(46.786854573660932, 'The Real Reason Kingdom Hearts III Has Taken So Long, According To The Director')
+(4.5153381376312645, "'Our hearts are broken' - Don Damond")
+(4.3285833165748411, "NASA's TDRS satellite damaged weeks before Atlas V launch from Cape Canaveral")
+
+['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+(30.770400646183106, 'Wal-Mart apologizes for retail ad that included racial slur')
+(20.148532407008119, "Delta tells Ann Coulter she can have her $30 back, but she won't stop raging on Twitter")
+(6.5264141286898276, 'Walmart apologizes for racial slur on its website')
+
+['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+(29.218538011828677, 'Call Of Duty: WWII Zombies Trailer Gets Leaked, But Devs Ask Fans To Avoid It')
+(26.468162999991989, 'As Abbott launches ambitious special session, ill will flows between Straus, Patrick')
+(5.1440221247691884, 'Major tech firms, internet providers clash over US net neutrality rules')
+
+['windows', 'some', 'support', 'early', 'intel', 'business']
+(41.595547901035197, 'Windows 10 support could end early on some Intel systems')
+(6.0841630388969987, '20 World Heritage Sites in pictures')
+(3.881374061885436, 'Major tech firms, internet providers clash over US net neutrality rules')
+

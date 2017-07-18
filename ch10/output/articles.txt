@@ -1,0 +1,2450 @@
+Republicans divided after second healthcare bill collapses
+7.78557048905 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+4.57418467034 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+1.63074277893 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+U.S. makes lower trade deficit top priority in NAFTA talks
+11.8779085998 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+3.77386208093 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+2.891704904 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+
+Trump threatens sanctions if Venezuela creates Constituent Assembly
+8.05538649413 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+1.82226766187 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+1.25225644951 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+More hospital closings in rural America add risk for pregnant women
+1.39694659425 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+1.31509757054 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+1.30523931938 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+
+Grandmas, grandpas from travel ban states now welcome: U.S. cable
+5.73399139856 ['from', 'space', 'coverage', 'full', 'what', 'star']
+5.19509217262 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+3.90391225245 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+
+New life in U.S. housing market not evident in big bank results
+2.1009397254 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+1.80477671268 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+0.956951347468 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Asian shares, dollar slip as passage of U.S. healthcare bill doubtful
+5.09252474523 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+3.65927488968 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+3.63185944817 ['from', 'space', 'coverage', 'full', 'what', 'star']
+
+U.S. allows more seasonal workers as Trump pushes 'hire American'
+7.88057108923 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+2.9129694555 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+1.63164468508 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+
+Trump says Iran complying with nuclear deal but remains dangerous threat
+12.4169197571 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+9.95779051811 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+7.11280148608 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+
+Minneapolis police shooting of Australian woman sparks questions about body cameras
+12.7871019074 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+1.61986711942 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+1.14021931921 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+
+Venezuela opposition turns heat up on Maduro with strike call
+2.21114452113 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+2.05512947556 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+1.20188643801 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+
+U.S. ending laptop ban on Middle Eastern airlines
+2.03889387361 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+2.02259676677 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.327658802646 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+
+Australia centralizes national security agencies amid heightened threat
+3.20765469311 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+2.10237936528 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.922178667386 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+
+Philippine president asks Congress to keep martial law until end of year
+4.56105826714 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+1.9648932613 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+1.21982157132 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+
+Rights groups call for justice ahead of major Thailand trafficking verdict
+6.0065277837 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+2.57803380468 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+0.624106242612 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+
+Japan doctor who practiced until months before his death dies at 105
+4.9797681733 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+1.70341023343 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+1.3362351846 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+Second Australian politician forced to resign over dual citizenship
+2.6071924063 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+2.03399833345 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+1.41901075168 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+
+Where's the lane? Self-driving cars confused by shabby U.S. roadways
+2.02105261027 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+1.29672909091 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+0.890069781401 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+The property manager and Putin's friends
+2.99728319003 ['from', 'space', 'coverage', 'full', 'what', 'star']
+1.25135388437 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+0.915855939367 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Trump meets with Republican leadership; party unity discussed
+6.9225008007 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+4.37220684705 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+2.64124038732 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+
+India overpass collapse kills 14; scores feared trapped
+2.05535664994 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+1.35579229043 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+1.33784443388 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Trump sounds off on abortion; criticism comes from all sides
+8.83563969333 ['from', 'space', 'coverage', 'full', 'what', 'star']
+6.04790948137 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+4.96574171802 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+GE Capital asks U.S. government to lift 'too big to fail' designation
+1.82914492086 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.659591031486 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+0.625860333368 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+
+Kremlin denies report of Russia-U.S. deal on Assad's future
+5.87379717747 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+1.33060898746 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+1.21858942946 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+
+U.S. says it will not recognize South China Sea exclusion zone
+2.50916485859 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+2.4103977615 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+1.47289024656 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+
+Virginia trooper dies after being shot by gunman at bus station
+10.1037176364 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+1.95732548011 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.812648743117 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+Hundreds of thousands protest at French labor reforms
+4.51912104109 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.383713640122 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+0.246669649454 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+
+GM extends shutdown at Chevy Bolt plant as inventories swell
+4.18760816971 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.797086761946 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+0.501319199518 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+
+Tesla adds two to board, including James Murdoch
+5.60108052525 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+5.27468596515 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.129875444863 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+
+Netflix beats subscriber targets, shares jump over 10 percent
+2.12232341656 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+1.02859541148 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+0.70676189186 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+
+Corporate tax reform negotiators aim above Trump's 15 percent pledge
+7.05394040151 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+2.54267786224 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+1.77132740475 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Toshiba shares surge after Greenlight stake, U.S. court hearing
+2.44673204906 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+2.17666373724 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+1.07385230846 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+Trump vows to protect 'Made in America' products
+7.15743395996 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+4.02369640144 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+1.70439512826 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+BMW executive Kranz joins electric car startup Faraday Future
+2.09045772642 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+0.972779865751 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.706796407725 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+
+Low-fee BlackRock funds reel in cash but earnings disappoint
+1.23820239167 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+1.02105652571 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+0.973356149785 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+
+U.S. parents spending less on college tuition, study finds
+1.86755061359 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+1.66989860016 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+0.840078079104 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Lack of voting rights may keep Snap, others from MSCI indexes
+3.06774221506 ['from', 'space', 'coverage', 'full', 'what', 'star']
+1.47725505744 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+1.21146502779 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Credit Suisse CEO flags start of work on 2018-2020 plan
+1.54419075658 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+1.09818097531 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+0.683257452886 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+
+China's Lufax to launch first overseas platform in Singapore
+2.03307587642 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+1.69625961654 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+1.66549581687 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+Mortgage investors unfazed as Fed balance sheet plan looms
+4.05732016717 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+1.93928159514 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+0.958322897634 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+
+Fidelity's O'Neil cuts risk; Treasuries nearly 1/3 of Total Bond fund -Barron's
+1.28401272218 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+0.998326705511 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.508599217164 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+
+Eaton Vance fund managers see major upside for healthcare stocks: Barron's
+3.39258158816 ['from', 'space', 'coverage', 'full', 'what', 'star']
+2.33622886855 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+0.935878243764 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Loan growth, better spreads fail to impress U.S. bank investors
+1.79836601296 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+1.18266915128 ['windows', 'some', 'support', 'early', 'intel', 'business']
+1.00493970989 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+JPMorgan posts higher profit; shares dip on net interest income view
+1.52012413963 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+1.04708186309 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+1.02921517414 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+
+High-speed Hyperloop project ready for key test in Nevada
+3.90415964459 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+3.72791700786 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+1.18243502364 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+
+Neil Armstrong's moon bag to fetch up to $4 million at auction
+4.26942841828 ['from', 'space', 'coverage', 'full', 'what', 'star']
+3.02933208318 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+1.91885377124 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+
+Giant iceberg breaks off Antarctica
+0.728487232622 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+0.394442292353 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.250639577979 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+Farewell Dippy the dinosaur - London museum installs whale skeleton
+2.03332986782 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+1.06643352996 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.444841463863 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+
+NASA probe grazes Jupiter's clouds in brush with Great Red Spot
+5.31687336697 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+2.58332724997 ['from', 'space', 'coverage', 'full', 'what', 'star']
+2.1256725739 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+
+Artist to debut 3D portraits produced from Chelsea Manning's DNA
+3.54043356178 ['from', 'space', 'coverage', 'full', 'what', 'star']
+1.5275753073 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+1.06495472177 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+
+Small satellites driving space industry growth: report
+2.31088939794 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+1.27251851052 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.566515386048 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+China tests self-sustaining space station in Beijing
+5.57701296524 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.951873482898 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.102609459713 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+
+We need to talk about sex, robot experts say
+0.990654130882 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.912162801354 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.500526352202 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+
+Driving under the influence in car powered by whisky biofuel
+3.89252281532 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+2.70108080986 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.340811785793 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+
+Samsung Elec to recover rare metals from recalled Note 7s
+6.38804930946 ['from', 'space', 'coverage', 'full', 'what', 'star']
+1.59482335594 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+1.13264245821 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+
+Major tech firms, internet providers clash over U.S. net neutrality rules
+3.08366419706 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+2.21729182755 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+0.935952168897 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+
+U.S. appeals court upholds gag orders on FBI data surveillance
+8.3120480201 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.225737033965 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+0.132129779992 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+
+Indian e-commerce firm Flipkart lifts bid for rival Snapdeal to up to $950 million
+5.6563856623 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.742572515327 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.733510304585 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+
+Qualcomm loses appeal against EU threat of daily fine
+2.66304495839 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+2.00935624801 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.705135044045 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+
+FedEx says cyber attack to hurt full-year results
+2.05698925135 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+1.99176987525 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+1.96339401268 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+Tesla driver denies Autopilot system caused Minnesota crash
+7.67783584667 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+4.53494358484 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+1.63516679659 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+
+Qatar says media report reveals UAE role in hack that sparked crisis
+18.0004739979 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+1.58688908995 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+0.0451856168675 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+
+DIARY-U.S. refinery operations-Total Port Arthur refinery reformer restart on hold
+2.27624095151 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.933297234764 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+0.710165259767 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+Two private equity groups submit bids for Hutchison fixed-line unit -sources
+2.31605727926 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+1.38967051147 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+0.732761656727 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+
+UPDATE 1-India's Flipkart lifts bid for rival Snapdeal to up to $950 mln -sources
+0.384200950135 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.0945728589253 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.0917646433217 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+UK Stocks-Factors to watch on July 18
+2.8123785444 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+1.21447798707 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+1.15494265513 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+INSIGHT-More hospital closings in rural America add risk for pregnant women
+1.41119940624 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+1.33787592844 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+1.30571848603 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+
+BRIEF-Ballard to supply 5 fuel cell engines to SunLine Transit Agency
+0.593929323089 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+0.555914094725 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+0.168456391755 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+
+BRIEF-Philly Shipyard Q2 net income of $2.2 million
+0.765884387209 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.683982485014 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.102669023165 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+
+PRESS DIGEST- New York Times business news - July 18
+3.31620300415 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+1.70330495458 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+1.45897900991 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+PRESS DIGEST- Wall Street Journal - July 18
+2.59104090278 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+1.95854104298 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.715427868023 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+
+South Korea Proposes Military Talks With North at Their Border
+6.64683717791 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+0.432561640642 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.363653049373 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Mafia in Italy Siphons Huge Sums From Migrant Centers
+3.63746574449 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.599602191361 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+0.199913373599 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+After a Harrowing Flight From U.S., Refugees Find Asylum in Canada
+3.65478978048 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.41402089412 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+0.252312557417 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+Afghanistan More Deadly for Women and Children, U.N. Says
+1.20167920289 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+1.16948509053 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+0.822962837368 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+
+Europe Edition: ‘Brexit,’ Migrants, Tour de France: Your Tuesday Briefing
+2.02782325487 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+0.230352497374 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.0653462148051 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+Colleagues of Princeton University Scholar Convicted of Spying in Iran Express Shock
+3.56045999378 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.166389613691 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.0105335484835 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+
+Wm. Theodore de Bary, Renowned Columbia Sinologist, Dies at 97
+1.03225805873 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.968068028062 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+0.362817688469 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+
+John McCain, Donald Trump, North Korea: Your Monday Evening Briefing
+3.45270961584 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+0.646896635007 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.0143147205878 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+
+The Master of ‘Kompromat’ Believed to Be Behind Trump Jr.’s Meeting
+6.92949151931 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+2.92348193436 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.168321228618 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+
+Asia and Australia Edition: John McCain, North Korea, Russia: Your Tuesday Briefing
+0.552591843159 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.313778369312 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+0.274381975162 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+
+The Breakdown: A Solo Trek for Indigenous Rights. Also: a Bad Night for ‘Game of Thrones’
+4.70014421111 ['game', 'thrones', 'season', 'super', 'smash', 'bros']
+2.74968276561 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.090516124817 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+
+Tillerson’s Grand Renovation Plan in State Department Gets Assistance
+1.91146466073 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.817415795877 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+0.782110108633 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+
+China Censors Winnie-the-Pooh on Social Media
+3.35350141635 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+1.26960331296 ['windows', 'some', 'support', 'early', 'intel', 'business']
+0.978530697307 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+
+Jordanian Sentenced to Life in Prison for Killing 3 U.S. Soldiers
+1.1955820982 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.908802446526 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+0.673046313717 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+
+Beijing Journal: A Cleanup of ‘Holes in the Wall’ in China’s Capital
+0.732633540803 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+0.666718967698 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.593942925473 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+
+American Peace Activist Is Denied Entry to South Korea
+2.90690712285 ['from', 'space', 'coverage', 'full', 'what', 'star']
+1.1816013125 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.938894175791 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+
+Macron Denounces Anti-Zionism as ‘Reinvented Form of Anti-Semitism’
+1.62361907629 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+0.731869251184 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.0702661376081 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Struggles at Procter & Gamble Draw Scrutiny of Nelson Peltz
+0.268011861099 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+0.0685459122861 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+0.00515143129802 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Police in Europe Break Up Network Selling Illegal Horse Meat
+3.0341993515 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+2.79081374287 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+0.831324628171 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+Paraglide Over Peru in 360
+0.902173709878 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.876565894149 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+0.517499503369 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Liu Xiaobo’s Death Pushes China’s Censors Into Overdrive
+1.21496614342 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.545696888374 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+0.373845801473 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+The ‘Brexit’ Talks, in 200 Words
+6.54360861276 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+2.29659299842 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.00429908730368 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+
+Australian Diplomat Flips Back Trump’s Appraisal of French First Lady
+7.10152690196 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+2.59151465176 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.485236135858 ['windows', 'some', 'support', 'early', 'intel', 'business']
+
+As Paperwork Goes Missing, Private Student Loan Debts May Be Wiped Away
+2.07987767387 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.716100826514 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+0.550788414307 ['from', 'space', 'coverage', 'full', 'what', 'star']
+
+McCain’s Surgery May Be More Serious Than Thought, Experts Say
+1.84245277101 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+1.55772658024 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.717754856135 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+
+Game of Thrones: ‘Game of Thrones’ Season 7 Premiere: Welcome to Dragonstone
+15.1339402816 ['game', 'thrones', 'season', 'super', 'smash', 'bros']
+4.26648580159e-13 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+5.83004006294e-15 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+
+Health Care Overhaul Collapses as Two Republican Senators Defect
+9.66733589921 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+0.932571639869 ['windows', 'some', 'support', 'early', 'intel', 'business']
+0.684452062989 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+The Lawyer, the Addict
+6.41816767878 ['from', 'space', 'coverage', 'full', 'what', 'star']
+3.24549926825 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.606823110769 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+
+Cosmo DiNardo Took a Dark Turn Before Bucks County Killings, Friends Say
+2.71862919901 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+0.399168122178 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+0.228641560207 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Delta Air Lines Fires Back at Ann Coulter on Twitter, but Refunds Her $30
+5.53439829404 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+2.85278886304 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+2.42411498478 ['from', 'space', 'coverage', 'full', 'what', 'star']
+
+Excerpts From Trump’s Conversation With Journalists on Air Force One
+9.93716693167 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+2.94222339513 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.303576624651 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+
+As Workouts Intensify, a Harmful Side Effect Grows More Common
+0.845057396577 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.827416526234 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+0.795441451643 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+5 Cheap(ish) Things That Could Disproportionately Improve Your Life
+3.1231634453 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.572534303655 ['windows', 'some', 'support', 'early', 'intel', 'business']
+0.295688294989 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+
+27 Contact Lenses Are Found in Woman’s Eye, Doctors Report
+2.33060605475 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+0.803598620824 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+0.50682701038 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+
+Trump Goes on Attack as Russia Revelations Appear to Take Toll
+8.43076371519 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+1.34532389247 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+0.589745771636 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+
+Op-Ed Columnist: Trump Savagely Mauls the Language
+5.33316506129 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+0.669099454334 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+6.92576023016e-05 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+
+Departing Ethics Chief: U.S. Is ‘Close to a Laughingstock’
+3.20829250192 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+1.33860846791 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+1.06179638485 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+
+Op-Ed Contributor: Why I’m Leaving the Southern Baptist Convention
+0.63142293164 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+0.564493070064 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+0.167814014668 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+The Top Jobs in Trump’s Administration Are Mostly Vacant: Who’s to Blame?
+2.62233455493 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+0.650924608072 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+1.36636056099e-05 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+
+The Cost of a Hot Economy in California: A Severe Housing Crisis
+3.96561627492 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+4.01516720677e-06 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+3.73039112671e-07 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+
+A Top Republican Vows a Vote on Health Care, but Uncertainty Reigns
+11.7205120373 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+0.445201307973 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.00374118029309 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+
+Qatar Opens Its Doors to All, to the Dismay of Some
+0.987549959759 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.269462224324 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.239215061246 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+
+Australian Woman Is Fatally Shot by Minneapolis Police
+8.52615530934 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+1.08847895444 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+0.0239842792027 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+
+Exodus From a Historic Puerto Rican Town, With No End in Sight
+3.12437003954 ['from', 'space', 'coverage', 'full', 'what', 'star']
+1.78168247233 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+1.29653971625 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+
+Meechy Monroe, a YouTube Star for Her Natural Hair Lessons, Dies at 32
+0.817983951603 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+0.454099600507 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+0.408527509552 ['from', 'space', 'coverage', 'full', 'what', 'star']
+
+Video Shows Orlando Police Pulling Over Florida State Attorney
+6.18409193396 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+0.610913238418 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.267762358684 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+
+Maryam Mirzakhani, Only Woman to Win a Fields Medal, Dies at 40
+1.9446978614 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+0.850934445071 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+0.254897694507 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+Op-Ed Columnist: Republicans Leap Into the Awful Known
+1.12426823233 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.824384233618 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+0.387119719722 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+
+What to Remember Before Watching the ‘Game of Thrones’ Season 7 Premiere
+10.5119007068 ['game', 'thrones', 'season', 'super', 'smash', 'bros']
+0.235285934752 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+0.000881900778577 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+
+Ask The Wirecutter: The Best Luggage We Tested for the Frequent Traveler
+0.565533002082 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+0.431036076776 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+0.404604549865 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+
+She’s His Rock. His Parole Officer Won’t Let Him See Her.
+0.425798245892 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+0.00776202839214 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+0.0068085048701 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+
+The Chemicals in Your Mac and Cheese
+0.324911768703 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+0.112565065337 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.0795465026996 ['game', 'thrones', 'season', 'super', 'smash', 'bros']
+
+States Keep Saying Yes to Marijuana Use. Now Comes the Federal No.
+0.724958162171 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.68529951139 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+0.453770148197 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+
+At a Luxury Complex in India, the Maids and the Madams Go to War
+0.433398408279 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+0.113291641454 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+0.0926165171565 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+
+A Russian Developer Helps Out the Kremlin on Occasion. Was He a Conduit to Trump?
+2.91390611431 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+2.88525642741 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.194395213998 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+
+Noted: The Latest in Web Design? Retro Websites Inspired by the ’90s
+1.42348970679 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+0.511401659181 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.393947404164 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+Review: With Grating ‘Friends From College,’ Who Needs Enemies?
+9.83505564027 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.652340825651 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.467405669357 ['game', 'thrones', 'season', 'super', 'smash', 'bros']
+
+Iran Sentences U.S. Graduate Student to 10 Years on Spying Charges
+6.01803682988 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+3.0724265156 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.137590289636 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+
+The Breakdown: State Party Takes Aim at Hijabs for Children. Also: Australian Is Shot in U.S., and Julie Bishop on Trump.
+13.2262237573 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+3.54380305389 ['from', 'space', 'coverage', 'full', 'what', 'star']
+1.93103960392 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+
+Roger Federer Wins Record-Breaking Eighth Wimbledon Title
+0.354827420368 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+0.201135222911 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+0.153110010968 ['from', 'space', 'coverage', 'full', 'what', 'star']
+
+Op-Ed Columnist: Game of Trump
+3.19350640597 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+2.55272840528 ['game', 'thrones', 'season', 'super', 'smash', 'bros']
+0.121838901032 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+
+Martin Landau, Actor Who Won an Oscar for ‘Ed Wood,’ Dies at 89
+0.128804138012 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+0.116920374637 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+0.0664197643657 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+Op-Ed Contributor: Israel’s War Against George Soros
+1.08519916988 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+0.481335736358 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+0.162856796014 ['from', 'space', 'coverage', 'full', 'what', 'star']
+
+Where Else Does the U.S. Have an Infrastructure Problem? Antarctica
+0.679112312664 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+0.29951078172 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+0.261875694227 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+Editorial: India’s Turn Toward Intolerance
+2.84820941842 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+1.12266721156 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.838560373334 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+
+How to Find the Right Therapist
+1.03555655081 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+1.01436476775 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.447181779474 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+
+George Romero, Father of the Zombie Movie, Dies at 77
+0.453267321727 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+0.132865557055 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.123098818875 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+How Aaron Judge Built Baseball’s Mightiest Swing
+2.9487492728 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.450772211611 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+0.26056074423 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Wealth Advisers Set Up Shop With a Shared Back Office
+1.4990757561 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+0.862941847048 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.535423019435 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+
+‘Doctor Who’ Breaks the Mold With Female Lead
+0.931270864209 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.840523948113 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+0.531752475189 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+
+On Photography: My Grandmother’s Shroud
+0.0797669850751 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+0.0785534924119 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.0389549568413 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+
+Op-Ed Contributors: The Benefits of Private Financing for Public Works
+0.410583060715 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+0.0353255457626 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.0262552515412 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+
+Editorial: Save the Census
+0.0180933097571 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+0.0165299158725 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.0142368077066 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+
+Op-Ed Columnist: Moral Vacuum in the House of Trump
+5.45729621853 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+0.825014124177 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+0.0401706361355 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+
+Fair Game: Big Pharma Spends on Share Buybacks, but R&D? Not So Much
+3.27341444504 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+2.70983923889 ['game', 'thrones', 'season', 'super', 'smash', 'bros']
+0.536088897086 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+Short Answers to Hard Questions About Climate Change
+1.48356304601 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+0.657187382754 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+0.475523883087 ['game', 'thrones', 'season', 'super', 'smash', 'bros']
+
+A Match Made in Baking and Blue Ribbons
+1.77788419119 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.935954963303 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.911821330415 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+
+Red Century: How German Condoms Funded the Russian Revolution
+1.06881788961 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+0.49418428543 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.169951191851 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+
+Opinion: Please Prove You’re Not a Robot
+0.156341152384 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.0320317983596 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.0174534577457 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+
+Feature: This Town Melts Down
+1.16017318048 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.568401220415 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+0.216325376253 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+
+The Getaway: Paris for $400? What Money Buys on the New Low-Cost Airlines
+0.828138760438 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.132246165398 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+0.091637681062 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+
+At Goldman, He’s David Solomon. At the Club, He’s D.J. D-Sol.
+0.666079931935 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+0.438405559061 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+0.429090100433 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+Saving Swimmers, Well Into Senior Years
+0.709303710148 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.371097029701 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+0.201704152203 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+
+Loose Ends: The Summer Bucket List of a 35-Year-Old Woman
+1.17240378613 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+1.01118901607 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+0.410532125772 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+
+Op-Ed Contributor: Trump’s Gift to Putin in the Mideast
+2.92382098067 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+0.243262638161 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+6.55014664074e-05 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+
+F.D.A. Panel Recommends Approval for Gene-Altering Leukemia Treatment
+3.19441541683 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.231727155869 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+0.134164877894 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+
+In South Asian Social Castes, a Living Lab for Genetic Disease
+4.02611269813 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+3.1911614622 ['from', 'space', 'coverage', 'full', 'what', 'star']
+1.10593327304 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+
+Op-Ed Contributor: The Trouble With Sex Robots
+0.978360600238 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.937407746187 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+0.383312295724 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+
+The Secrets to Saving for College
+0.176614923773 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.0215242010499 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+0.0202079821236 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+
+Opinion: No One Cares About Russia in the World Breitbart Made
+3.35643294341 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+0.426876389795 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+0.380428955111 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+
+If You Fix This, You Fix a Big Piece of the Climate Puzzle
+0.77318085037 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+0.374421984693 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.303052790366 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+
+Your Money: How the Medicaid Debate Affects Long-Term Care Insurance Decisions
+3.32595687572 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+1.39862472914 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+1.01593234748 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+
+Gray Matter: When Is Speech Violence?
+0.176379885795 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+0.171119898419 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+0.118665765133 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+
+Trilobites: Unlocking Mysteries in the Sun’s 11-Year Cycle
+1.10497510527 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+0.903037110258 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+0.621443967986 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+
+Who Needs Hard Drives? Scientists Store Film Clip in DNA
+1.43212795102 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.953091304233 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+0.776710458321 ['from', 'space', 'coverage', 'full', 'what', 'star']
+
+Trilobites: Protected Wolves in Alaska Face Peril From Beyond Their Preserve
+6.20712785909 ['from', 'space', 'coverage', 'full', 'what', 'star']
+3.35504604206 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.0833481776004 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+
+Trilobites: Jupiter’s Great Red Spot Gets Its Close-Up
+3.87630543241 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.631221787978 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+0.506202873827 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+
+Trilobites: Living Another Day, Thanks to Grandparents Who Couldn’t Sleep
+0.761105180601 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.400828190677 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.319311229701 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+
+Ants Can Build an Eiffel Tower (Sort Of)
+0.537712991091 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.416891586123 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+0.311213883896 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+ScienceTake: Ants, Dutiful Escape Artists, Build Towers in Constant Flux
+3.4025841788 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.30580659617 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+0.235956794355 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+Take a Number: How a Warming Climate Will Trouble Air Travel
+0.87951819649 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+0.698098351461 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+0.628418263537 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+
+Q&A: Why Animals Avoid Munching on Ferns
+0.574621971696 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+0.0321231103843 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+0.018482913717 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+Tell Us 5 Things About Your Book: ‘Why,’ About the Science of Curiosity
+0.658536779339 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+0.464273287325 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+0.380833965091 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+
+Yoro Journal: Every Year, the Sky ‘Rains Fish.’ Explanations Vary.
+4.05238676537 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+2.90986423953 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.594979263128 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+
+Brazil’s Gateway for Slaves, Now a World Heritage Site
+0.312127267341 ['windows', 'some', 'support', 'early', 'intel', 'business']
+0.273584638346 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+0.106584415972 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+
+Chain-Reaction Crash With Minor Injuries, Except for the Slime Eels
+1.11343792425 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.910452259825 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+0.439764012857 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+
+The Secret of the Sun’s Magnetic Cycles
+6.00316835281 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.130261246203 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+0.00188475421849 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+Keith Conners, Psychologist Who Set Standard for Diagnosing A.D.H.D., Dies at 84
+0.946657749878 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+0.526358029454 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.159391906832 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+
+Climate-Altering Gases Spiked in 2016, Federal Scientists Report
+1.48721647178 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+0.779757817358 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.338742759456 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+
+Newsbook: 3 Books Take a Deeper Look at the Opioid Epidemic
+0.205047179378 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+0.0922415836277 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+0.076155184731 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Feature: Arks of the Apocalypse
+0.0862001825129 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+0.0631769254798 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.0396240588374 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+
+Trilobites: Clever Humpbacks Move In for a Meal at Salmon Hatcheries
+2.57876230862 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.771655456844 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+0.606220779517 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+Following the Eyes for a Clue to Autism
+0.478759833251 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+0.306930260751 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.299491995789 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Moon Express Sets Its Sights on Deliveries to the Moon and Beyond
+1.38905339383 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.68426936968 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.364991992294 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Whale Strikes and Kills Canadian Rescuer After He Helps Free It
+0.579258216662 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+0.491811580085 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+0.446284979214 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+
+Study of How We Look at Faces May Offer Insight Into Autism
+0.769334060129 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.33129722725 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+0.264465750061 ['from', 'space', 'coverage', 'full', 'what', 'star']
+
+How Big Is the Iceberg? That Depends on Where You Live
+3.6278034267 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+2.84380811989 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.584881420021 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+
+U.S. Cities, States and Businesses Pledge to Measure Emissions
+2.08177493369 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+1.14619347128 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+0.390180376651 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+New Mascot for the Hamptons: Mary Lee, the Great White Shark
+0.482993771207 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.221613331915 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+0.0650537829861 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+Era of ‘Biological Annihilation’ Is Underway, Scientists Warn
+3.13637723538 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+2.87629030742 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.40684265896 ['game', 'thrones', 'season', 'super', 'smash', 'bros']
+
+Trilobites: The Very Hungry Caterpillars That Turned to Cannibalism
+2.99320191543 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.0609577295142 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+0.000123716149262 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+
+U.K. Orders New Inquiry Into Contaminated-Blood Scandal
+6.63849876494 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.722271724199 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+0.575745083178 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+
+Postolowo Journal: In Poland, a Battle for the Fate of Europe’s Last Ancient Forest
+0.60273991313 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+0.346505802587 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+0.274176562376 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Tobacco Gets More Screen Time in Blockbuster Movies, Study Shows
+3.17046075193 ['from', 'space', 'coverage', 'full', 'what', 'star']
+1.11384756252 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+0.910092356202 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+Pursuits: When Dinosaurs Roamed North Dakota
+0.577842704498 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+0.349837337417 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+0.130646879088 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+
+The Salty Pink Pools of the Yucatán
+0.742886395331 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.388747759058 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+0.374544876455 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+
+The Shift: Behind the Velvet Ropes of Facebook’s Private Groups
+0.196173417011 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+0.170828091151 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.0776856880862 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+
+While Some Cry ‘Fake,’ Spotify Sees No Need to Apologize
+1.30747809752 ['windows', 'some', 'support', 'early', 'intel', 'business']
+0.99778583147 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+0.927368595127 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+
+Essay: If Tech Execs Act Like Spoiled Brats, Should We Spank Them?
+1.18420328626 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+1.07557012548 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+0.954577538964 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+
+Board Member Exodus Hits Hampton Creek, a Healthy Food Start-Up
+0.706261696846 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.504491035154 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.447679070892 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+
+Zombies, Hijabs and Sandwiches: Apple Unveils Its New Emojis
+1.31988888026 ['windows', 'some', 'support', 'early', 'intel', 'business']
+1.24849639352 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+0.166113513886 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+Tech Tip: Adding New Fonts to the Computer
+0.932513394968 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.917305603109 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+0.431558296201 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+Charles W. Bachman, Business Software Innovator, Dies at 92
+1.5918284815 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+0.706573258089 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.675559904504 ['windows', 'some', 'support', 'early', 'intel', 'business']
+
+Farhad’s and Mike’s and Nellie’s Week in Tech: Struggles for Snap
+0.968776088659 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+0.801178775927 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.661140890808 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+
+Noncompete Pacts, Under Siege, Find Haven in Idaho
+0.648582961604 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.552612248548 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+0.51967688791 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+Songkick Sells Concert-Recommending Service to Warner
+0.669574349103 ['windows', 'some', 'support', 'early', 'intel', 'business']
+0.343234023503 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.263221374839 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Surround Sound? You Ain’t Heard Nothing Yet
+0.259836188725 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+0.231421923461 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.201254218521 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+Text for Happiness. Or Sadness. Get Art Back.
+0.638693865064 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+0.106745906716 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+0.0949254885244 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+
+Tech Tip: Finding Support for a Missing Instagram Account
+1.3450581366 ['windows', 'some', 'support', 'early', 'intel', 'business']
+0.905890462014 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.685259127987 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+
+As ‘Game of Thrones’ Returns, Is Sharing Your HBO Password O.K.?
+9.64658139573 ['game', 'thrones', 'season', 'super', 'smash', 'bros']
+2.58970471999 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.0983924222527 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Wheels: Paddle Shifters Move From the Fast Track to the H.O.V. Lane
+3.4760076823 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.683347081513 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.641296311788 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Bits: Daily Report: Coveting Uber’s Chief Executive Job
+1.52812397716 ['windows', 'some', 'support', 'early', 'intel', 'business']
+1.12728177146 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+1.11200414753 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+
+Tech Tip: How to Find Out Which Mac Software Needs Updating
+1.59169560874 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+1.35627140397 ['windows', 'some', 'support', 'early', 'intel', 'business']
+0.765986166766 ['from', 'space', 'coverage', 'full', 'what', 'star']
+
+Common Sense: As a Guru, Ayn Rand May Have Limits. Ask Travis Kalanick.
+1.37734613766 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+0.227811339491 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+0.14728057675 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Toshiba Resumes Talks Over Contentious Sale of Microchip Unit
+2.49800276617 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+0.587040643911 ['windows', 'some', 'support', 'early', 'intel', 'business']
+0.340113178996 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Uber and Yandex, a Russian Ride-Hailing Rival, Opt to Share the Road
+3.23707891593 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.178506323262 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.136817650812 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+
+Uber Offers a Thankless Job, and the Applications Flood In
+1.4532191311 ['windows', 'some', 'support', 'early', 'intel', 'business']
+1.12778734223 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.641725342049 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+
+Uber Drivers Win Preliminary Class-Action Status in Labor Case
+1.2690844095 ['windows', 'some', 'support', 'early', 'intel', 'business']
+0.486794117576 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+0.106957985497 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+The Pop-Up Employer: Build a Team, Do the Job, Say Goodbye
+0.13971867337 ['game', 'thrones', 'season', 'super', 'smash', 'bros']
+0.122369044125 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.0876006470753 ['from', 'space', 'coverage', 'full', 'what', 'star']
+
+Bits: Daily Report: The Treasure Found in Email
+3.92377512786 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+1.31835628858 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.805883819094 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+
+Tech Tip: Protecting Your Computer with Free Software
+3.35317897151 ['windows', 'some', 'support', 'early', 'intel', 'business']
+1.36939249209 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+1.15011306697 ['game', 'thrones', 'season', 'super', 'smash', 'bros']
+
+See How Tech Companies Got Together for a Day of Online Protest
+0.742759611744 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+0.535892872369 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+0.151293579362 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Apple Opening Data Center in China to Comply With Cybersecurity Law
+1.28664099809 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.801212794385 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+0.514624543718 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+State of the Art: What We Lose When the World Moves On From Email
+3.82821331352 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.431050385763 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.166263171355 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+
+Tech Fix: When You Should (and Shouldn’t) Share Your Location Using a Smartphone
+0.818128455148 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+0.468753958169 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+0.358296073226 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+‘Alexa, Where Have You Been All My Life?’
+0.688559664819 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+0.467950583171 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.445096096911 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+
+Bits: Daily Report: A Technology to Close the Digital Divide
+1.28164361415 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+1.0987567559 ['from', 'space', 'coverage', 'full', 'what', 'star']
+1.01636394107 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+
+Tech Tip: Checking Voice Mail While Abroad
+3.19748737768 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.619252847873 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+0.342721416349 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+Did an Echo Call 911 During a Domestic Assault? Amazon Says No.
+4.22194967295 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+2.28681970027 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+1.34120882348 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+
+Two more Senate Republicans oppose health-care bill, leaving it without enough votes to pass
+28.1578187251 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+2.38307384862 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+1.49801251561 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+
+Questions remain surrounding fatal Minnesota police shooting
+31.595352707 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+2.40354485212 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.499618959148 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+
+Trump Recertifies Iran Nuclear Deal, but Only Reluctantly
+28.733115794 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+8.19954015838 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+4.42799964049 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+
+California lawmakers extend landmark climate change law
+32.3260310561 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+0.71079454936 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+0.549083616136 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+
+Game Of Thrones season 7 Episode 1 Questions Answered
+30.9496904504 ['game', 'thrones', 'season', 'super', 'smash', 'bros']
+1.1266663523 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+0.232701824938 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+
+Venezuela opposition calls strike, Trump threatens 'actions'
+9.61199487305 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+8.42895122765 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+3.55266993097 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+
+Saudi Arabia investigates woman who wore miniskirt in public
+19.4523032722 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+2.07708833441 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+0.470662172397 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+
+Trump administration unveils goals in renegotiating NAFTA
+26.0335468656 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+3.67876003562 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+1.55695524005 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+
+As Abbott launches ambitious special session, ill will flows between Straus, Patrick
+26.468163 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+2.4757289016 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+2.38779616914 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+
+Strong earthquake strikes off Peru, no damage seen
+3.68442282547 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+2.62273349936 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+2.16281883683 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+
+R. Kelly denies new sexual misconduct allegations
+3.76921369195 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+2.48610654275 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+2.17438490437 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+
+Film Review: Christopher Nolan's 'Dunkirk'
+8.77237745041 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+1.17652990691 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+0.280266104212 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+
+Paul Pierce signs 1-day deal with Celtics so he can retire in green
+7.92450635893 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+4.33406995068 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+2.94363742279 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+Jessica Alba Expecting Third Child
+3.49659953403 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+2.09843961658 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+1.90792431966 ['from', 'space', 'coverage', 'full', 'what', 'star']
+
+Astronomers don't know what's causing these weird radio waves from a nearby star
+15.2450190992 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.342807348875 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+0.333338391774 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+
+WWE Raw Results: Winners, Grades, Reaction and Highlights from July 17
+8.0396416336 ['from', 'space', 'coverage', 'full', 'what', 'star']
+1.57205110345 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+1.30956325323 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+Delta tells Ann Coulter she can have her $30 back, but she won't stop raging on Twitter
+20.148532407 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+2.9645634841 ['from', 'space', 'coverage', 'full', 'what', 'star']
+1.44743397216 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+
+Bachelor Nation Reacts to Dean Unglert's Unforgettable Hometown Date With Rachel Lindsay on The Bachelorette
+5.96467162752 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+3.52178033498 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+3.50478875416 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+US makes lower trade deficit top priority in NAFTA talks
+34.0631847286 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+6.06747875592 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+2.44806536531 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+
+Saudi girl's online post in miniskirt sparks backlash, calls for her arrest
+39.8268918895 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+0.300391324096 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.0418989959756 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+
+'Modern Day Presidential' really isn't working for Trump
+16.6838261597 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+3.94039265095 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+3.29600178353 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+
+Russia hacking row: Moscow demands US return seized mansions
+5.31971941889 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+5.28052484529 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+4.85223631522 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+
+Disturbed weather in Atlantic grows into Tropical Storm Don, but has bleak future
+4.76028763354 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+3.93132450952 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+1.88787648409 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+Britain and the EU Have Started Brexit Talks With Citizens' Rights Proving Divisive
+38.5675173558 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+2.02753974776 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.125065892421 ['game', 'thrones', 'season', 'super', 'smash', 'bros']
+
+Will Liu Xiaobo's death end our China fantasy?
+2.81351806802 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+2.59673132072 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+2.15847003049 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+
+Transparency in the City of Light
+10.0932689001 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+4.95877150475 ['from', 'space', 'coverage', 'full', 'what', 'star']
+1.90370146962 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+
+Iran Sentences US Graduate Student to 10 Years on Spying Charges
+24.7115965618 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+3.66917378911 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+1.06807993398 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+First photo of extension cord that killed teen who died taking a bath while using cellphone
+6.208342109 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+4.35311690241 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+3.17306035388 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+
+UAE says report that it was behind Qatari cyber hack is "false"
+10.5150404356 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+5.66962681707 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+1.38208394925 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+Al Gore: 'Our Country Is Going Through a Challenging Time' With Trump
+6.86842633452 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+3.0875689901 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+2.88982302814 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+
+On third anniversary of downed MH17 jet, relatives unveil 'living memorial' for the victims
+7.36144362755 ['from', 'space', 'coverage', 'full', 'what', 'star']
+2.44948665633 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+1.34599326391 ['windows', 'some', 'support', 'early', 'intel', 'business']
+
+India Parliament Elects President, BJP-Backed Candidate Favorite
+4.08930082003 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+2.85396046379 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+2.36565079373 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+
+Philippines' Duterte asks Congress to extend martial law
+14.6220903566 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+2.06133707166 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+1.77259198961 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+
+As Netflix Keeps Beating Expectations, Its Competitive Edge Gets Bigger and Bigger
+4.66913428053 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+2.99132891381 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+2.31340702101 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+
+Amazon's Meal Kit Move Will Be More Than a Blue Apron Competitor
+46.122075801 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.21221901667 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+0.118035168589 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+
+Wal-Mart apologizes for retail ad that included racial slur
+30.7704006462 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+1.29958394938 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.00747317941737 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+
+Tesla Says Driver Clarifies Autopilot Wasn't on During Crash
+17.8365864629 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+2.02014862562 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+0.645552397211 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+
+Asian shares, dollar slip as passage of US healthcare bill doubtful
+4.53808080061 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+2.81559630715 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+1.87830931222 ['from', 'space', 'coverage', 'full', 'what', 'star']
+
+American Airlines insists farty passenger wasn't cause of emergency
+3.11435253964 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+2.57695832351 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+2.26674978592 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Why Nelson Peltz Wants P.&G. to See Him as a 'Constructivist'
+4.89855070925 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+1.91095255788 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+1.03443385534 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+
+Cult favorite Chick-fil-A tests family-style meals, new sides
+5.53403916975 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+0.901706441098 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+0.770710345079 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+
+Tesla Model 3: Should you buy Elon Musk's first mass-market electric car?
+38.2679856357 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+0.0381990589967 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.0269840158772 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+
+Subway preps new look for tens of thousands of stores
+2.94069225854 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+1.62924271767 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+1.24178953707 ['from', 'space', 'coverage', 'full', 'what', 'star']
+
+SEE IT: Fired Taco Bell employee destroys fast food chain in fit of rage
+6.10174026755 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+4.9196391256 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+1.7953055763 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+
+Major tech firms, internet providers clash over US net neutrality rules
+5.14402212477 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+3.88137406189 ['windows', 'some', 'support', 'early', 'intel', 'business']
+2.94357099507 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+When Will Tesla Join The S&P 500?
+11.6654771003 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+2.0691516826 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+1.46984284269 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+
+Wells Fargo poised to sell more businesses as it streamlines following accounts scandal
+3.75879127831 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+3.6044440853 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+2.75260259215 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+Walt Disney Provides More Details About Its Plans for Improving Epcot
+4.59400317046 ['from', 'space', 'coverage', 'full', 'what', 'star']
+4.13321025597 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+3.43968025563 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+
+BNP Paribas faces $246m fine in currency scandal
+3.90552982674 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+3.08350264005 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+1.58805325832 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+
+Head to Head Analysis: Rite Aid Corporation (RAD) versus PetMed Express (PETS)
+2.54406404871 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+1.59421480449 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+0.78867157715 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+
+'Our hearts are broken' - Don Damond
+13.455016947 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+4.51533813763 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+1.30618422742 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+Check Out the New Emoji Headed to Apple Devices
+4.32322801751 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+2.20233834566 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+1.24545087663 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+
+Leak: Nokia 8 To Sport Flagship Specs, Priced Around €550
+2.70688440649 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+2.69229833859 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+2.68449296413 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+
+IPhone 8 roundup: Here's what people are reporting so far
+3.68415971245 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+1.91229734916 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.906291604905 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+
+Windows 10 support could end early on some Intel systems
+41.595547901 ['windows', 'some', 'support', 'early', 'intel', 'business']
+0.00108166960231 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+9.85752247762e-05 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+
+We've Seen Atari's New 'Ataribox' Console, And It's More Confusing Than Ever
+40.0338932236 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+0.0152857311599 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+0.0133539117536 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+
+The Real Reason Kingdom Hearts III Has Taken So Long, According To The Director
+46.7868545737 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+0.000905660792435 ['windows', 'some', 'support', 'early', 'intel', 'business']
+0.00018148912965 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+
+Watch the Final Fight giant Abigail get warmed up for his Street Fighter 5 debut
+19.3074335981 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+0.0911647861481 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+0.0500168982112 ['game', 'thrones', 'season', 'super', 'smash', 'bros']
+
+Tomorrow's 'Destiny 2' Beta Is A Watershed Moment For The Series
+2.62993067731 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+1.10692633462 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+0.986975421489 ['from', 'space', 'coverage', 'full', 'what', 'star']
+
+Samsung, PayPal form strategic partnership
+3.63148475131 ['windows', 'some', 'support', 'early', 'intel', 'business']
+2.92249576831 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+2.67338178155 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+Following Switch's Splatoon 2 Release, The Series Will Receive An Online Anime Series
+3.21595294602 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+3.09166118429 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+2.5197585347 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+
+Super Smash Bros. Modders Are Making A Free-To-Play PC Fighting Game
+21.640580538 ['game', 'thrones', 'season', 'super', 'smash', 'bros']
+2.75848300712 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.492983340419 ['windows', 'some', 'support', 'early', 'intel', 'business']
+
+What To Expect From AMD's Threadripper And EPYC Processors.
+11.3160266462 ['from', 'space', 'coverage', 'full', 'what', 'star']
+2.81983977 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+1.52962564357 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+'Windjammers' brings 16-bit frisbee duelling to PS4 and PS Vita
+4.00764692675 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+2.60511922006 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+2.57490681684 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+Essential phone UK launch revealed, still MIA in US
+20.9455012831 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+0.0791227392759 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+0.00319659421689 ['from', 'space', 'coverage', 'full', 'what', 'star']
+
+Myspace let you hijack any account just by knowing the person's birthday
+3.02309864244 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+1.32363194998 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.765872303016 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Call Of Duty: WWII Zombies Trailer Gets Leaked, But Devs Ask Fans To Avoid It
+29.2185380118 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+0.0407920049201 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+0.00297009069846 ['from', 'space', 'coverage', 'full', 'what', 'star']
+
+EVO 2017: Arc System Works Unveils 'BlazBlue Cross Tag Battle'
+2.28071191838 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+2.24305785333 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+2.12269795597 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+PlayerUnknown's Battlegrounds beats GTA V's peak Steam players record
+4.28236761502 ['game', 'thrones', 'season', 'super', 'smash', 'bros']
+4.16522983463 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+2.85426219772 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+The Latest: California Legislature passes cap-and-trade deal
+35.1949810186 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+1.34167848545 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.332122481983 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+
+Dog helps rescue deer stranded in body of water
+4.1828780593 ['from', 'space', 'coverage', 'full', 'what', 'star']
+3.41370651056 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+2.74293032416 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+Justice Dept. signals more police property seizures coming
+9.29591999877 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+3.99411884019 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+3.65930770681 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+
+Woman Who Claimed She Lost Baby During Gender-Reveal Party Mass Shooting Was Not Pregnant: Police
+45.0773349033 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+2.27331890804 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+0.262637355503 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+
+9 dead, man missing in flash flood at Arizona swimming hole
+4.22490233768 ['from', 'space', 'coverage', 'full', 'what', 'star']
+3.76515337508 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+1.82636171676 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+
+Trump Panel Prompts Thousands of Voters to Unregister
+8.50902512939 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+3.56590475449 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+2.46311268752 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+
+Turner marches on in the Sanders revolution
+3.60554016547 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+2.03680308459 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+1.17249956501 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+
+Murray: 'I am not going to resign,' despite urging by councilmember
+5.3508062419 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+2.0876089721 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+1.79403602907 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+Illinois governor to block Chicago schools' funding boost
+4.84987235541 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+4.00965066115 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+2.55539208069 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+
+Gorsuch can't escape travel ban at San Francisco meeting
+4.07191287674 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+2.83823011378 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+2.32712070746 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+Report: Coast Guard to create Potomac River buffer zone when Trump is golfing
+8.8239232175 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+2.83346346685 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+1.23052832503 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+
+Flash flood warning extended to 8:45 pm
+5.24557647244 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+1.40846932387 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+0.919992840293 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+
+Police have the face and voice of a man they believe killed two girls — but still no name
+9.41812067704 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+9.16275907223 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+2.42977769187 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+
+Northern Lights captivate crowds overnight
+3.61281290354 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+2.9783680204 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+2.35064448424 ['windows', 'some', 'support', 'early', 'intel', 'business']
+
+Officials Continue to Search for Homicide Suspect in Forest
+4.51563031492 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+2.28324300533 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+1.47464057115 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+
+OHP Lieutenant Crossed Paths With Chase Suspect Before Tragedy
+2.71683490799 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+2.56301302502 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+2.18597709986 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+
+Compromise for marijuana bill
+4.55810245053 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+2.67512432181 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+1.27501102709 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+
+Drifting Antarctic iceberg A-68 opens up clear water
+3.79474074721 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+2.90176686175 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+2.31103561675 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+
+Japan's zero-gravity space drone sends first pictures from ISS
+14.5998314516 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.710709563114 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+0.316134702733 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+America's greatest eclipse is coming, and this man wants you to see it
+5.65507992799 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+3.33118380293 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+2.52416573015 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+
+Maryam Mirzakhani's Pioneering Mathematical Legacy
+4.45523101861 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+3.62367409673 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+3.48409991065 ['from', 'space', 'coverage', 'full', 'what', 'star']
+
+There's Growing Evidence That Pluto's Largest Moon Had a Massive Ocean
+7.60066530291 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+5.35293474113 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+2.63918429199 ['from', 'space', 'coverage', 'full', 'what', 'star']
+
+NASA's TDRS satellite damaged weeks before Atlas V launch from Cape Canaveral
+9.80109976809 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+6.5750530523 ['from', 'space', 'coverage', 'full', 'what', 'star']
+4.32858331657 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+Size key to top speed in animals, study finds
+3.77540940481 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+3.48721706173 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+0.905691161482 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+Gabordi: Apollo 11 still inspiring generations to space
+5.54811956912 ['from', 'space', 'coverage', 'full', 'what', 'star']
+3.95241426224 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+0.767804263491 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+
+New Documentary Highlights The Beauty Of Coral Reefs — And The Perils They Face
+2.83133888931 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+1.87234045883 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+1.40625644372 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+
+What Apollo 11 Astronauts Did On The Way To The Moon
+5.70865606501 ['from', 'space', 'coverage', 'full', 'what', 'star']
+2.97963455814 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+1.19648578955 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+Latest GOP health care bill collapses after two senators defect
+14.6286227898 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+1.28049962484 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+0.705584989277 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+
+GOP health care bill lacks support to proceed
+15.6243308932 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+3.03324181296 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+1.59841446923 ['from', 'space', 'coverage', 'full', 'what', 'star']
+
+Zelizer: Who's behind GOP's stunning defeat on health care?
+12.7779424568 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+7.05474385525 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.680034792895 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+
+This invisible line divides the health care debate
+7.14406401329 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+3.50824254649 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.469049763404 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+
+What happens if Congress fails to repeal Obamacare
+0.957696570962 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+0.501085251931 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.274743523294 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+Trump Jr.'s lawyer gives details about 8th person
+9.46450661955 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+0.538584423167 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+0.303468707619 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+
+The cast of characters in Trump Jr. meeting
+10.5065909123 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+1.57618830215 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+1.42021824392 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+
+Cillizza: Modern Day Presidential' isn't working for Trump
+4.31231678507 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+3.6737325435 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.560680459882 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+
+Spicer contradicts Trump on Trump Jr. meeting
+14.8693375017 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+2.8271299344 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.150461769019 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+
+Cooper: Claims are demonstrably false
+4.80896249929 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+0.771257770305 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.5642607676 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+
+Lindsey Graham: McCain is like his old self
+1.26749066359 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+0.996981722308 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.821502031331 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+
+Cillizza: W. House wants to kill press briefings
+1.10626982097 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+0.883587891253 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+0.510144569713 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Woman calls 911, gets killed by police, source says
+9.30724440646 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+1.95713898376 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+1.11160806714 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+
+S. Korea proposes military talks with N. Korea
+5.79450619339 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+3.10078487598 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.436752434821 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+
+Secret pics taken inside North Korea
+1.97974402281 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+1.93745312228 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+0.730039712649 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+
+Navy's laser can kill drones
+1.01326096594 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.994080885457 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+0.150411489643 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+
+Iran complying with nuclear deal, US says
+16.4359346274 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+6.41410700907 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.143615868271 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+
+Doctors find 27 contacts in woman's eye
+2.4051229022 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+1.99100699654 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+0.776514241238 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+
+Prince George steals the show
+0.19711686573 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+0.0818172381582 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.0640216795341 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+Did girls capture their killer on video?
+1.60196991053 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+0.98406818577 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+0.716167675619 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Opinion: Beam me up, Scotty? Not quite
+3.295493588 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.196268885195 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+0.181174521741 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Walmart apologizes for racial slur on its website
+6.52641412869 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+2.7876210215e-12 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+5.27287424809e-22 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+
+Delta vs. Ann Coulter: Why it's a big deal
+1.82294378827 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+1.08393599361 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.430811139839 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+
+Panthers fire GM days before training camp
+0.513290494992 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+0.224090826517 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.122266064983 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+
+Breastfeeding mom among new Apple emoji
+1.00694062385 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+1.00280455433 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.804438578195 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+
+They didn't get the warning: 9 dead in flash flood
+0.745183439977 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+0.433255866607 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+0.326094322329 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+
+Prince Charles' wife gives rare interview
+1.06958043917 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+0.325790577381 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+0.318685234363 ['from', 'space', 'coverage', 'full', 'what', 'star']
+
+'Game of Thrones' premiere nabs record ratings
+5.12972924145 ['game', 'thrones', 'season', 'super', 'smash', 'bros']
+1.52482616137e-09 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+1.12322145096e-10 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+
+Kirk Cousins, Redskins fail to agree on contract
+0.0513328080517 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+0.0484290207763 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.0174630712456 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+
+Hall of Fame sportcaster Bob Wolff dies
+0.0927573976765 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+0.0449776321458 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.0224185724164 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+Chechen leader: 'We don't have any gays'
+1.36714815632 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+0.562245499905 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+0.306544823508 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+The newest World Heritage Sites
+0.641996611331 ['windows', 'some', 'support', 'early', 'intel', 'business']
+0.226319727037 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.181385760523 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+1,000 years before Stonehenge, they built this
+1.55203280543 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+0.647539941155 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.550445535928 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+
+Bourdain goes drinking in Thailand
+0.187755710876 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+0.0604152745298 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+0.00971766403422 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+20 World Heritage Sites in pictures
+6.0841630389 ['windows', 'some', 'support', 'early', 'intel', 'business']
+1.08891098651 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+0.707008158127 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+Luxury dawns in secret Italian region
+1.05359900186 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+0.729328895442 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+0.71506161374 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+
+Best spots for Indian Ocean indulgence
+0.350447801202 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.274534713781 ['windows', 'some', 'support', 'early', 'intel', 'business']
+0.262315782054 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+
+Internet jokes about Ed Sheeran's 'Thrones' cameo
+2.24490222393 ['game', 'thrones', 'season', 'super', 'smash', 'bros']
+0.401431101083 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+0.347303320781 ['windows', 'some', 'support', 'early', 'intel', 'business']
+
+The luxury store where North Korea's elites shop
+3.51605796212 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.357510957932 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+0.276796376366 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+
+Coolest airline uniforms ever?
+0.686366830919 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+0.222394798101 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+0.0611773196872 ['from', 'space', 'coverage', 'full', 'what', 'star']
+
+Trump voter struggles over this question
+7.23325469185 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+0.486560406982 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.476339070049 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+
+When an airline can move your seat
+2.96750223821 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+1.67024635231 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+1.12943996811 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+
+Can robots solve Grandma's loneliness?
+0.296960357656 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+0.012425179715 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+0.0120189363298 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Sign up for our newsletter!
+0.0180160978953 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+0.016512339661 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.0142327266664 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+
+Making money and doing good
+0.326468186635 ['game', 'thrones', 'season', 'super', 'smash', 'bros']
+0.205056382151 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+0.0441391948085 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+How to invest in stocks
+0.0730908828474 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.0586567378175 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+0.0290137479454 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+The real problem with Ann Coulter's fiasco
+2.17189840254 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+0.852013196979 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.56664049415 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+How GOP could make health care deal with Dems
+8.55084248197 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+3.451085939 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+2.79299433316 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+
+Some conservative voices doubt Trump over Russia
+3.03100890441 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+1.34884496937 ['windows', 'some', 'support', 'early', 'intel', 'business']
+0.204420501946 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+
+How Trump Jr. meeting fits into Putin game plan
+10.8449792277 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+2.94287635351 ['game', 'thrones', 'season', 'super', 'smash', 'bros']
+0.330964512541 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+
+The real injustice wasn't pulling over Aramis Ayala
+4.50515252965 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+4.28336879138 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+1.96056140359 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+
+Crush your debt and refinance to a 15 yr fixed loan
+0.31876411189 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+0.142767148091 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.0766634294343 ['game', 'thrones', 'season', 'super', 'smash', 'bros']
+
+Treating primary biliary cirrhosi
+0.0180429240929 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+0.0165460985448 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.0142414828486 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+
+3 cards charging 0% interest until 2019
+0.347003526459 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+0.251036738234 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+0.143093643309 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+Mike Pence's two misleading Medicaid claims
+6.76490476594 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+1.05366244177 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+0.254877022144 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+
+Poll: Americans say health care is most important issue
+7.83607242061 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+0.351316694172 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+0.0500898594056 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+What to expect in Russia investigations this week
+9.39906656122 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+3.3508195232 ['from', 'space', 'coverage', 'full', 'what', 'star']
+1.86369121827 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+
+This diet might prevent dementia
+0.387005263636 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.309171660663 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+0.112966542804 ['from', 'space', 'coverage', 'full', 'what', 'star']
+
+High levels of chemical found in mac and cheese
+0.35048005587 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+0.0938929223134 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.0638880122393 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+Why you should photograph your clutter
+3.37523510997 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+1.83324583986 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+1.4058539838 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+
+Review: 'Game of Thrones' heats up
+10.7544807497 ['game', 'thrones', 'season', 'super', 'smash', 'bros']
+1.70629129895e-05 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+4.35886528986e-09 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+'Doctor Who' to get first female lead
+0.929257959884 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.919912608262 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+0.865253984207 ['from', 'space', 'coverage', 'full', 'what', 'star']
+
+Disney unveils footage of 'Star Wars'
+0.906513536063 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+0.89672123336 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.82940867649 ['from', 'space', 'coverage', 'full', 'what', 'star']
+
+'Spider-Man' stars address dating rumors
+0.603033940189 ['game', 'thrones', 'season', 'super', 'smash', 'bros']
+0.0359899345421 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+0.0139359629249 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+
+Actor Martin Landau dead at 89
+0.747200455603 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+0.670272994602 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+0.36583196054 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+
+The world's 25 greatest modern buildings
+0.182992446153 ['windows', 'some', 'support', 'early', 'intel', 'business']
+0.163928301235 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+0.0908877649306 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+How a chance encounter changed two lives forever
+0.0505931010777 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+0.0319599837886 ['windows', 'some', 'support', 'early', 'intel', 'business']
+0.0318208169009 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+This memorial might break your heart
+0.517625325982 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.329131984095 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.247980778579 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+
+Wounded Capitol Police officer throws first pitch
+2.75347537319 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+0.290933224199 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.0374938135544 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+
+Public Health: Why Repeal-and-Delay Is a Risky Health Care Strategy
+6.38448284602 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+2.42462717044 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+0.298381146205 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+
+New Analysis: Old Truth Trips Up G.O.P. on Health Law: A Benefit Is Hard to Retract
+5.58253335226 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+1.09333675174 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.805497922657 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+
+Trump Says He Has Signed More Bills Than Any President, Ever. He Hasn’t.
+6.98343238801 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+2.10118083158 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+1.97747079137 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+
+Trump Tweets ‘That’s Politics!’ About Son’s Meeting With Russian Lawyer
+12.1427198521 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+3.25539470069 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+3.08177290796 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+California Extends Climate Bill, Handing Gov. Jerry Brown a Victory
+9.11479258404 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+3.93678084415 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+1.00383870336 ['windows', 'some', 'support', 'early', 'intel', 'business']
+
+U.S. to Release Up to 15,000 New Visas for Seasonal Workers
+2.6308955228 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+1.67737890204 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+0.944671833346 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+
+Ex-Officer Is Indicted on Murder Charge in Killing of Black Teenager
+3.50820251689 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+0.00144025054152 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+0.00139859762657 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+Your Daily Mini Crossword
+0.713430714997 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+0.375066929325 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.189182005726 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Another New York Diner Turns Off the Grill, a Victim of Rising Rents
+1.59996127469 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+1.55478732538 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.684506723676 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+
+A Defender of the Constitution, With No Legal Right to Live Here
+2.00294512625 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.745604267377 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+0.527012472733 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+
+An Appraisal: In George Romero’s Zombie Films, the Living Were a Horror Show, Too
+1.50110579796 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+0.358460337647 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+0.3203363342 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+
+5 George Romero Films to Remember
+3.05799095918 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+2.61363970503 ['game', 'thrones', 'season', 'super', 'smash', 'bros']
+0.0680431285923 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+
+After Grisly Killings in Pennsylvania, a Quick Deal to Spare Execution
+1.23100764922 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.598048013166 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+0.481011716419 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+
+In Lula’s Shadow, Brazil’s Shipbuilders Struggle to Right Themselves
+0.0655600382081 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+0.0548784547321 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+0.0422107477017 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+U.S. Calls for ‘Much Better Deal’ in Nafta Overhaul Plan
+5.24729914157 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+3.14901330116 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.904273603542 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+
+Where’s Rey? Despite Uproar, Hasbro Makes Her Monopoly Game Piece Hard to Find
+3.42792966074 ['from', 'space', 'coverage', 'full', 'what', 'star']
+2.99539595835 ['game', 'thrones', 'season', 'super', 'smash', 'bros']
+0.74568600041 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+
+Jay-Z’s ‘4:44’ Gets a Wide Release, and an Easy Trip to No. 1
+1.61488080288 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+0.632249895517 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+0.333527179685 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+Anti-Violence Activist Is Fatally Shot in Chicago
+3.42423963891 ['from', 'space', 'coverage', 'full', 'what', 'star']
+1.2209796877 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+0.183279240656 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+Kermit the Frog Performer and Disney Spar Over an Ugly ‘Muppet’ Firing
+0.667899762148 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.583445330339 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+0.4491722861 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+Critic's Notebook: When Women Won’t Accept Theatrical Manspreading
+3.68124360056 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.37147440552 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+0.281543698572 ['game', 'thrones', 'season', 'super', 'smash', 'bros']
+
+On the Runway: From the L.P.G.A. to Congress, Dress Code as a Cause Célèbre
+3.2803040321 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.157263190376 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.0700392466583 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+
+Arizona flash flood kills 9 relatives celebrating birthday
+3.79790224654 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+2.59256076135 ['from', 'space', 'coverage', 'full', 'what', 'star']
+1.74335515309 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+
+Honolulu mayor pushes sprinkler bill in wake of deadly fire
+1.67549492444 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+0.771415624807 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+0.672419449847 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+
+Prosecutor to announce plans in fatal Ohio police shooting
+9.03141305275 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+1.07671949239 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+0.383191564337 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+
+Tsunami advisory canceled after Russia 7.8 earthquake
+0.991221388257 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+0.820486172004 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+0.700428500684 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+
+Ex-cop to face 4th trial in killing of daughter's boyfriend
+5.14926980566 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+1.07276591334 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.665848253076 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+
+3 men indicted in New York massacre by violent street gang
+3.81942185549 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+2.27742561013 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+1.12824235754 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+
+Man who pushed stranger in path of train acquitted of murder
+0.687511655782 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.632714768832 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+0.546185910457 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+
+On 1st birthday since John Glenn died, memorial plans abound
+3.96161214726 ['from', 'space', 'coverage', 'full', 'what', 'star']
+3.56319346941 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+1.19650832461 ['windows', 'some', 'support', 'early', 'intel', 'business']
+
+Democratic Senator Glad GOP's Bill Is Sidelined, But Sees Long Fight Ahead
+6.85615801767 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+3.33371279264 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.608559595686 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+State Department Certifies Iran's Compliance With Nuclear Deal
+6.53045965099 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+5.61320090163 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+3.14821670532 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+
+Republican Health Care Bill Falls Short, Dealing Blow To Trump Agenda
+6.84761016556 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+2.6835417755 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+0.175989823117 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+
+Why Aren't Students Showing Up For College?
+0.726343736864 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+0.67211310386 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+0.411076144492 ['from', 'space', 'coverage', 'full', 'what', 'star']
+
+#EbonyOwes: 99 Problems And Money Is One
+3.09455519889 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.851408713275 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+0.675821240489 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+
+President Trump's Lawyer Faces Ethical Questions
+7.38831919136 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+0.550825789206 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+0.306022308059 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+Grandparents Eligible For Visas Under Expanded Instructions On Travel Ban
+3.54625737281 ['from', 'space', 'coverage', 'full', 'what', 'star']
+3.28411664125 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+0.295105100127 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Meet The Other Robotics Team That Almost Didn't Make It To The Competition
+3.82964654283 ['from', 'space', 'coverage', 'full', 'what', 'star']
+3.6282497015 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.683938995413 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+
+Neurosurgeon: McCain's Recovery From Brain Surgery Might Take Weeks
+6.66615495525 ['from', 'space', 'coverage', 'full', 'what', 'star']
+3.74213839817 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.482491899985 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+
+10 Years After Gaza Takeover, Hamas Under Pressure To Surrender Power
+1.25933976889 ['windows', 'some', 'support', 'early', 'intel', 'business']
+0.975015428925 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.76521543669 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+
+Academic Adviser Of U.S. Student Jailed In Iran: 'Everything He Did Was Normal'
+7.61987260077 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.834535351618 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.727297257711 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+
+Seeking Online Medical Advice? Google's Top Results Aren't Always On Target
+3.51229966918 ['from', 'space', 'coverage', 'full', 'what', 'star']
+2.53745755554 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+1.16018865542 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+
+In Massachusetts, Proposed Medicaid Cuts Put Kids' Health Care At Risk
+4.57192271493 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+0.941075152393 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+0.837873772183 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+NBA In July? League Scores Bright Spot In Summer Ratings
+0.424801757152 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+0.351790248659 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+0.26022642206 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Jordanian Soldier Sentenced To Life In Killing Of 3 American Troops
+1.00334227621 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.527341272407 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.514554880442 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+
+Trump to Republicans: Let's repeal ObamaCare
+8.16644969479 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+5.43854847704 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+3.51165405753 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Best and worst celebrity beach bodies (okay mostly best)
+1.07655939826 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.896807088913 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+0.759306798645 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+
+12 freshman House members: It's time for the Senate to act on health care
+6.23641880148 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+2.92971235632 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+1.91348619257 ['from', 'space', 'coverage', 'full', 'what', 'star']
+
+Saudi Arabia investigates video of young woman walking in miniskirt
+12.5282526078 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+0.815377655271 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+0.768189213566 ['windows', 'some', 'support', 'early', 'intel', 'business']
+
+Jake Odorizzi bounces back, Rays hold on to beat A's
+0.756403078429 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+0.108060040667 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+0.0878067351235 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+
+Turkish court jails 6 human rights activists pending trial
+1.40424938668 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+1.37232626965 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+0.660583165631 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+HHS Secretary Tom Price details how GOP health plan is set apart from ObamaCare
+8.75570057314 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+3.28265423008 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.839606445039 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+
+Tropical Storm Don heads toward eastern Caribbean
+0.654510119339 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+0.532537167437 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+0.375380121758 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+Twins score a pair of runs in 8th inning to top Yankees
+0.743044759515 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+0.644292960276 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+0.492436541954 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+
+Indonesia's Parliament speaker named corruption suspect
+1.83764869743 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+1.78421640119 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.427693475296 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+US: Iran complying with nuclear deal but defying its spirit
+14.8896054107 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+2.95377686166 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+2.3110211908 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+
+Brewers drop series-opening game in Pittsburgh, 4-2
+2.63299045409 ['game', 'thrones', 'season', 'super', 'smash', 'bros']
+0.992985654704 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+0.000215592731599 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+Giancarlo Stanton homers twice, Marlins beat Phillies in a walk-off
+0.985512352402 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+0.975610604397 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.368625346424 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+
+Tomi Lahren: Let's make the GOP work again
+0.705941124313 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+0.272694238872 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+0.258974188417 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+
+Magnitude 6.4 quake shakes Peru's southern coast
+0.166905520511 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+0.110197991474 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.0753081631316 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+
+Starved Hawaii girl's parents plead not guilty to murder
+2.43076990424 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+0.957497986828 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+0.00364262401347 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+
+Building in Pakistan collapses, killing at least 2 residents
+0.514966153371 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+0.354174215993 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.347000201413 ['from', 'space', 'coverage', 'full', 'what', 'star']
+
+Hannity: Why are liberals so angry at President Trump?
+6.20393322974 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+0.37841305322 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+0.222686673033 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+
+Jay Sekulow on possible Ukrainian election interference
+3.65827397613 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+0.682439714758 ['saudi', 'post', 'miniskirt', 'woman', 'sparks', 'arabia']
+0.646077873204 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+Planet Nine? 'Extreme' objects hint at more evidence of possible unseen world
+0.968591556236 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+0.870517898273 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.688569032645 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+
+Ancient House of the Dead unearthed near Stonehenge
+0.925664909531 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+0.45822766759 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.246020251189 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+Cancer-killing treatment tested on International Space Station
+2.39219427961 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.479659214557 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+0.046563254712 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+PHOTO: NASA shows dramatic picture of massive new Antarctic iceberg
+1.14046026415 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+0.923098335844 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.909458551459 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+Dazzling auroras dance on the southern horizon in astronaut's photo
+1.77756272857 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.147693529189 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+0.00914337495792 ['hearts', 'kingdom', 'director', 'long', 'real', 'reason']
+
+Astronaut Buzz Aldrin rolls out the red carpet for Mars
+3.44917211324 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.518461714576 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+0.434445642887 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+
+Petition to save Canadian bear racks up thousands of signatures
+0.625294364516 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+0.509472236025 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+0.399612108252 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Trove of ancient Roman letters unearthed near Hadrian's Wall
+3.02262646414 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+1.27139621672 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+0.605715921844 ['windows', 'some', 'support', 'early', 'intel', 'business']
+
+This eight-legged creature could be Earth's sole survivor -- and help search for aliens
+1.41611680413 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+1.18935578376 ['windows', 'some', 'support', 'early', 'intel', 'business']
+0.408077583622 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+
+20 million mosquitoes to invade California in bug fight
+3.93149529073 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+0.249081089882 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+0.105120374584 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Grisly discovery in Spain: 45 intact shrunken brains found at mass grave
+1.38791855742 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+1.03853401132 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+0.0871063568088 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+N-word used on Walmart website to describe product color
+6.14235121695 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+1.07577400959 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+0.429093707712 ['health', 'care', 'bill', 'senate', 'republicans', 'more']
+
+Kuna outdoor smart security camera and light can stop burglars in their tracks
+3.62554647951 ['from', 'space', 'coverage', 'full', 'what', 'star']
+3.55532011926 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+1.63579378253 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+
+Leaked iPhone 8 design has a big surprise
+3.38393365544 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+1.47139230705 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+0.667645554261 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+
+Alien ships near Saturn? Ex-NASA scientist claims of their existence
+0.786359885226 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+0.673667517324 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.592904022985 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+
+Apple previews upcoming emoji for World Emoji Day
+2.19319605994 ['windows', 'some', 'support', 'early', 'intel', 'business']
+0.997842560431 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+0.564428556517 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+
+70 years after nuclear tests, marine life thrives at Bikini Atoll
+3.78063913034 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+2.87235792311 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+2.28126999107 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+
+Ashley Madison offers to pay $11.2 million to hacking victims
+1.03316975924 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.907433948639 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+0.623604259909 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Elon Musk says artificial intelligence is humanity's 'biggest risk'
+6.71114026428 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+2.40801518391 ['windows', 'some', 'support', 'early', 'intel', 'business']
+0.634784072221 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+
+Iran foreign minister distances himself from US citizen's espionage sentencing, 'doubts' Syria used chemical weapons
+7.11199153853 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+4.87131618782 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+2.2090337364 ['from', 'space', 'coverage', 'full', 'what', 'star']
+
+The Latest: Trump warns Venezuela of 'economic actions'
+2.25003666616 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+1.87035571963 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+0.550178769267 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+
+Wildfires in B.C. have forced nearly 40,000 to evacuate
+1.24670277793 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+0.98860547659 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.651430971941 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+
+Global warming melts ice, alters fabled Northwest Passage
+0.743049736036 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+0.664380789844 ['atari', 'console', 'ataribox', 'more', 'will', 'than']
+0.590971347861 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+
+UN envoy warns that Iraq faces major challenges after Mosul
+9.76004984264 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.318176837707 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+0.126173328611 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+
+Unemployed dad with face tattoo rejects 45 job offers since going viral with desperate work plea
+3.52331213132 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+3.11150671773 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+1.08770986056 ['trump', 'president', 'donald', 'with', 'meeting', 'russian']
+
+At least 100 tourists forced to evacuate in Montenegro fires
+6.62905926479 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+2.34397937377 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.105812101538 ['walmart', 'apologizes', 'slur', 'website', 'with', 'racial']
+
+Guatemala hands Mexico ex-governor wanted in corruption case
+0.295632150863 ['nafta', 'trump', 'deficit', 'trade', 'priority', 'deal']
+0.231486949668 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+0.118720446739 ['full', 'coverage', 'launch', 'street', 'essential', 'fighter']
+
+3 years on, families honor loved ones lost on downed MH17
+4.48174983559 ['from', 'space', 'coverage', 'full', 'what', 'star']
+2.01504913372 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+1.0950353447 ['woman', 'party', 'reveal', 'pregnant', 'gender', 'lost']
+
+The Latest: US urges cooperation in MH17 investigation
+1.02682149206 ['california', 'trade', 'legislature', 'lawmakers', 'climate', 'change']
+0.643009578643 ['from', 'space', 'coverage', 'full', 'what', 'star']
+0.458237794849 ['police', 'shot', 'shooting', 'fatal', 'woman', 'minnesota']
+
+Israel submarine bribe case: Suspect could incriminate senior officials, report says
+3.02272411997 ['from', 'space', 'coverage', 'full', 'what', 'star']
+1.71211415934 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.86216104044 ['iran', 'nuclear', 'deal', 'with', 'student', 'years']
+
+Japan says this is a time to raise pressure on North Korea
+1.44991692067 ['talks', 'brexit', 'full', 'with', 'york', 'news']
+1.12991529861 ['tesla', 'elon', 'musk', 'model', 'first', 'autopilot']
+0.968426325823 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+
+Israel, LGBT activists fight over adoption rights
+7.28056982473 ['that', 'reuters', 'said', 'monday', 'report', 'qatar']
+0.275368988045 ['call', 'zombies', 'duty', 'wwii', 'texas', 'will']
+0.104548608441 ['amazon', 'blue', 'apron', 'meal', 'more', 'will']
+
