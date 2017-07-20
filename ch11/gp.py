@@ -186,7 +186,7 @@ def crossover(t1, t2, probswap=0.7, top=1):
 def getrankfunction(dataset):
     def rankfunction(population):
         scores = [(scorefunction(t, dataset), t) for t in population]
-        scores.sort()
+        scores.sort(key=lambda fun: fun[0])
         return scores
 
     return rankfunction
@@ -203,7 +203,7 @@ def evolve(pc, popsize, rankfunction, maxgen=500,
     population = [makerandomtree(pc) for i in range(popsize)]
     for i in range(maxgen):
         scores = rankfunction(population)
-        print(scores[0][0])
+        print('iter %d : %f' % (i, scores[0][0]))
         if scores[0][0] == 0: break
 
         # The two best always make it
@@ -228,13 +228,14 @@ def evolve(pc, popsize, rankfunction, maxgen=500,
 
 def gridgame(p):
     # Board size
-    max = (3, 3)
+    max_value = (3, 3)
 
     # Remember the last move for each player
     lastmove = [-1, -1]
 
     # Remember the player's locations
-    location = [[randint(0, max[0]), randint(0, max[1])]]
+    location = list()
+    location.append([randint(0, max_value[0]), randint(0, max_value[1])])
 
     # Put the second player a sufficient distance from the first
     location.append([(location[0][0] + 2) % 4, (location[0][1] + 2) % 4])
@@ -256,13 +257,16 @@ def gridgame(p):
                 if location[i][0] < 0: location[i][0] = 0
             if move == 1:
                 location[i][0] += 1
-                if location[i][0] > max[0]: location[i][0] = max[0]
+                if location[i][0] > max_value[0]:
+                    location[i][0] = max_value[0]
             if move == 2:
                 location[i][1] -= 1
-                if location[i][1] < 0: location[i][1] = 0
+                if location[i][1] < 0:
+                    location[i][1] = 0
             if move == 3:
                 location[i][1] += 1
-                if location[i][1] > max[1]: location[i][1] = max[1]
+                if location[i][1] > max_value[1]:
+                    location[i][1] = max_value[1]
 
             # If you have captured the other player, you win
             if location[i] == location[1 - i]: return i
@@ -293,7 +297,7 @@ def tournament(pl):
 
     # Sort and return the results
     z = list(zip(losses, pl))
-    z.sort()
+    z.sort(key=lambda fun: fun[0])
     return z
 
 
@@ -330,7 +334,7 @@ class humanplayer:
 class fwrapper:
     def __init__(self, function, params, name):
         self.function = function
-        self.childcount = param
+        self.childcount = params
         self.name = name
 
 
